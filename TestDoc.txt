@@ -1,3 +1,5 @@
+Bob möchte das Dokument schöner machen...
+
 Kurzes Test Document in dem von mir Bob und Meinem Kollegen Tom ein kurzer Text über Git und Subversion entstehen soll.
 
 Hallo mein Name ist Tom, ich möchte ihnen die Vorteile von Subvision gegenüber Git näher bringen.
