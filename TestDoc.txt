@@ -4,5 +4,5 @@ Hallo mein Name ist Tom, ich möchte ihnen die Vorteile von Subvision gegenüber G
 
 Hallo mein Name ist Bob, ich möchte ihnen die Vorteile von Git gegenüber Subvision näher bringen.
 
-1.
+1. Git ist besser. :)
 
