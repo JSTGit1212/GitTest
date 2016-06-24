@@ -1,3 +1,7 @@
 Kurzes Test Document in dem von mir Bob und Meinem Kollegen Tom ein kurzer Text über Git und Subversion entstehen soll.
 
 Hallo mein Name ist Tom, ich möchte ihnen die Vorteile von Subvision gegenüber Git näher bringen.
+1. Mit Subvision können Files für einen Benutzer reserviert werden, dies kann nützlich sein, wenn die gefahr besteht, 
+dass Doppelt gearbeitet wird, wenn nicht eine bestimmte Reihenfolge im Erstellungsvorgang eingehalten wird.
+Beispiel: Ein Bild wird von 2 Nutzern in Teamarbeit erstellt, Nutzer 1 Zeichnet die Konturen, Nutzer 2 soll ausmahlen. Nutzer 1 fängt an und commited sein Ergebniss.
+Nutzer 2 denkt er kann schon anfangen und bringt Farbe ins Spiel muss aber danach feststellen das durch eine Designänderung von Nutzer 2 seine Arbeit hinfällig ist.
